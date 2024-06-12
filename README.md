@@ -7,7 +7,7 @@
 
 ```
 
-# 🕹️ Expert Guide for Windows Gaming Optimization Script 🛠️
+#🎮Guide for Pc Gaming Optimization Script🔥🔌
 
 Welcome to the ultimate guide for optimizing your Windows PC for gaming and performance! This documentation will provide you with detailed steps, feature explanations, and best practices for using the script effectively. 🌟
 
@@ -320,11 +320,11 @@ Feel free to contribute to this script by suggesting improvements or adding new 
 Enjoy your optimized gaming experience! 🎮✨
 
 ```plaintext
-         ______
-       //  ||\ \
-     //____||_\ \
-    ||   || ||  ||
-    ||   || ||  ||
-    ||___||_||__||
-    \___Ahmex___/
+             _    _  _  _  _  _  _  __ __  __ __  _  _ 
+   / \  | \| |/ \| |/ \| | | \| | | \| |/ \| |
+  / _ \ |    |    |  _  | |  |    |  |    | |
+ / ___ \| |\ | |\ | | \ | | |\| | |\ | | \ | |
+/_/   \_\_| \_| \_|_|\_\|_| \_|_| \_|_|\_\|_|
+
+
 ```
