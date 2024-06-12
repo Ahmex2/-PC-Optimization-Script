@@ -7,7 +7,7 @@
 
 ```
 
-#🎮Guide for Pc Gaming Optimization Script🔥🔌
+# 🎮Guide for Pc Gaming Optimization Script🔥🔌
 
 Welcome to the ultimate guide for optimizing your Windows PC for gaming and performance! This documentation will provide you with detailed steps, feature explanations, and best practices for using the script effectively. 🌟
 
